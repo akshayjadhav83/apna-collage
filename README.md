@@ -1,3 +1,3 @@
 # apna-collage
-This is my first repositary
+This is my first Git repositary
 Authur- akshay jadhav
